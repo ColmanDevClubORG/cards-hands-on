@@ -1,0 +1,1 @@
+export { Card } from './commons/Card/Card';

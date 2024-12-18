@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/images/krusty-krab.png",
+        "title": "The Krusty Krab",
+        "location": "Bikini Bottom",
+        "description": "Fast Food Restaurant Around",
+        "links": [
+            { "name": "GitHub", "url": "https://github.com" },
+            { "name": "LinkedIn", "url": "https://linkedin.com" }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "src/assets/images/chumbucket.jpg",
+        "title": "Chum Bucket",
+        "location": "Bikini Bottom",
+        "description": "Not-So-Fast Food Restaurant",
+        "links": [
+            { "name": "Website", "url": "https://chumbucket.com" },
+            { "name": "Twitter", "url": "https://twitter.com" }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "src/assets/images/weenie_hut_jrs.jpg",
+        "title": "Weenie Hut Jr's",
+        "location": "Bikini Bottom",
+        "description": "Casual Dining",
+        "links": [
+            { "name": "Instagram", "url": "https://instagram.com" },
+            { "name": "Facebook", "url": "https://facebook.com" }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "src/assets/image/school.jpg",
+        "title": "Mrs. Puffs Boating School",
+        "location": "Bikini Bottom",
+        "description": "Become the next boating master",
+        "links": [
+            { "name": "Twitter", "url": "https://twitter.com" },
+            { "name": "Facebook", "url": "https://facebook.com" }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "src/assets/images/lattysGym.webp",
+        "title": "Larry's Gym",
+        "location": "Bikini Bottom",
+        "description": "The ultimate spot for weightlifting, flexing, and fitness",
+        "links": [
+            { "name": "Twitter", "url": "https://twitter.com" },
+            { "name": "Facebook", "url": "https://facebook.com" }
+        ]
+    }
+]

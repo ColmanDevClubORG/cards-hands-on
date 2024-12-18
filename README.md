@@ -1,8 +1,17 @@
-# React + Vite
+# CARDS HANDS ON
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Projects File Structure
+```
+src/
+├── assets/                   # Static assets (e.g., images, icons, fonts)
+│   ├── images/               # Image assets
+│   └── data/                 # Data assets 
+├── components/
+│   ├── common/               # Reusable components
+│   │   ├── Card/             # The Card component folder
+│   │   │   ├── Card.jsx      # Card implementation
+├── pages/                    # Page components
+│   ├── Home.jsx              # Home page rendering the Card component
+├── App.jsx                   # Main App component
+└── index.jsx                 # React entry point
+```
